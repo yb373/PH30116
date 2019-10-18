@@ -1,0 +1,3 @@
+git config --global user.name "Yam Benshushan"
+git config --global user.email "yb373@bath.ac.uk"
+git config --list
